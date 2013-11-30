@@ -6,9 +6,14 @@ Réalisation
 Comme la 3D est un des éléments les plus développés dans GRASS GIS et en complément des tutoriels présentés à
 
  Une petite illustration de ce qu'il est possible de faire en 3D avec GRASS GIS afin de sérier les questions (comme je suis géologue et que la 3D est omniprésente, ce seront des exemples géologiques)
-
+ 
+ 
+Faille du Midi:
     
-![](http://www.forumsig.org/attachment.php?attachmentid=5048&d=1339840613)
+![F](http://www.forumsig.org/attachment.php?attachmentid=5049&d=1339840750)
+
+superposition de surfaces + drapage
+
 ![](http://osgeo-org.1560.x6.nabble.com/file/n4981860/soumagne1.jpg)
 
 drapage et vecteurs 3D (failles et limites de couches géologiques)
