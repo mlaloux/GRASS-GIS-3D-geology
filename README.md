@@ -12,6 +12,8 @@ Mémo de quelques unes de mes réalisations en Géologie 3D avec GRASS GIS
   - [3D geological volume modeling (raster 3D): is it really possible ? ](http://osgeo-org.1560.x6.nabble.com/3D-geological-volume-modeling-raster-3D-is-it-really-possible-td4980148.html)
 
 ###Faille du Midi:
+
+ <img src="http://i.stack.imgur.com/aiJtw.png" width: 200px>
     
  <img src="http://i.stack.imgur.com/aiJtw.png" width="60%" height="60%">
  
@@ -23,7 +25,7 @@ Mémo de quelques unes de mes réalisations en Géologie 3D avec GRASS GIS
  
 <img src="http://osgeo-org.1560.x6.nabble.com/attachment/4980148/4/soumagne1.jpg" width="60%" height="60%">
 
- 
+
 
 ![](http://osgeo-org.1560.x6.nabble.com/attachment/4980148/7/soumagne2_0.jpg)
 
