@@ -1,7 +1,9 @@
+From [Is there are QGIS plugin to allow the 3d visualisation of geological borehole data similar to the functionality of Target for ArcGIS?](http://gis.stackexchange.com/questions/41701/is-there-are-qgis-plugin-to-allow-the-3d-visualisation-of-geological-borehole-da)
+
 More generally I use GRASS GIS to do, see 
 
-[Automatic 3D geological boreholes representation (automate v.extrude from a table ?): my solution in Python ][7] 
-[3D geological volume modeling (raster 3D): is it really possible ?][8]
+  - [Automatic 3D geological boreholes representation (automate v.extrude from a table ?): my solution in Python ][7]  
+  - [3D geological volume modeling (raster 3D): is it really possible ?][8]
 
 ![boreholes][9] boreholes
 
