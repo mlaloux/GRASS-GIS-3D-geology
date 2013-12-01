@@ -15,7 +15,7 @@ Mémo de quelques une de mes réalisations en Géologie 3D avec GRASS GIS
     
  <img src="http://i.stack.imgur.com/aiJtw.png" width="60%" height="60%">
  
- <img src="http://i.stack.imgur.com/aiJtw.png" HR WIDTH="40%">
+ <img src="http://i.stack.imgur.com/aiJtw.png" HR WIDTH="80%">
 
 ### Est de la Belgique
 
