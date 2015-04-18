@@ -1,4 +1,4 @@
-Mémo de quelques unes de mes réalisations en Géologie 3D avec GRASS GIS
+Mémo de quelques unes de mes réalisations en Géologie 3D avec GRASS GIS et/ou Python
 =============================
 
 
