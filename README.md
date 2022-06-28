@@ -21,23 +21,20 @@ Mémo de quelques unes de mes réalisations en Géologie 3D avec GRASS GIS et/ou
 
 ### Est de la Belgique
 
- <img src="http://osgeo-org.1560.x6.nabble.com/attachment/4980148/7/soumagne2_0.jpg" width="60%" height="60%">
+ <img src="soumagne2_0.jpg" width="60%" height="60%">
  
-<img src="http://osgeo-org.1560.x6.nabble.com/attachment/4980148/4/soumagne1.jpg" width="60%" height="60%">
+ <img src="soumagne1_0.jpg" width="60%" height="60%">
 
 
 
-![](http://osgeo-org.1560.x6.nabble.com/attachment/4980148/7/soumagne2_0.jpg)
-
-![](http://geotux.tuxfamily.org/images/stories/soumagne2_0.png)
-![](http://geotux.tuxfamily.org/images/stories/soumagne1.png)
-
-![](http://osgeo-org.1560.x6.nabble.com/attachment/4980148/4/soumagne1.jpg)
 
 drapage et vecteurs 3D (failles et limites de couches géologiques)
 
-![](http://osgeo-org.1560.x6.nabble.com/file/n4981860/vector3D.jpg)
-
+<img src="vector3D.jpg" width="60%" height="60%">
+<img src="volumes3.jpg" width="60%" height="60%">
+<img src="3dcondroznet.jpg" width="30%" height="30%">
+<img src="crosssection2.jpg" width="70%" height="70%">
+<img src="volumes2.jpg" width="60%" height="60%">
 
 ![](http://osgeo-org.1560.x6.nabble.com/file/n4981860/volumes3.jpg)
 
@@ -50,9 +47,9 @@ drapage et vecteurs 3D (failles et limites de couches géologiques)
 ![](http://osgeo-org.1560.x6.nabble.com/attachment/4980148/1/forages2.jpg)
 ![](http://osgeo-org.1560.x6.nabble.com/file/n4981860/sondages.jpg)
 
-![](http://www.portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/nviz/volume.png)
+![](http://portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/nviz/volume.png)
 
-![Forages](http://www.portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/interpolation/sondseulok.png)
+![Forages](http://portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/interpolation/sondseulok.png)
 
 
 ![Forages3D](http://osgeo-org.1560.x6.nabble.com/file/n4981860/volumes3.jpg)
