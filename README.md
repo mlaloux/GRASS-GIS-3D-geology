@@ -49,7 +49,7 @@ drapage et vecteurs 3D (failles et limites de couches géologiques)
 
 ![](http://portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/nviz/volume.png)
 
-<img src="sondseulok.png" width="30%" height="30%">
+<img src="sondseulok2.png" width="30%" height="30%">
 
 ![Forages](http://www.portailsig.org/sites/default/files/images/illustration/grass/pour_les_nuls/interpolation/sondseulok.png)
 
