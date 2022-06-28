@@ -77,8 +77,8 @@ drapage et vecteurs 3D (failles et limites de couches géologiques)
 
 ![](http://geotux.tuxfamily.org/images/stories/condrozdxf.png)
 
-[Grass Gis et Paraview: la modélisation géologique 3D pour les démunis, ou les enthousiastes...](http://www.portailsig.org/content/grass-gis-et-paraview-la-modelisation-geologique-3d-pour-les-demunis-ou-les-enthousiastes)
-![](http://www.portailsig.org/sites/default/files/images/illustration/grass/testcouchehaute.png)
+[Grass Gis et Paraview: la modélisation géologique 3D pour les démunis, ou les enthousiastes...](http://portailsig.org/content/grass-gis-et-paraview-la-modelisation-geologique-3d-pour-les-demunis-ou-les-enthousiastes)
+![](http://portailsig.org/sites/default/files/images/illustration/grass/testcouchehaute.png)
 
 
 
